@@ -1,0 +1,4 @@
+
+interface FormaGeometricaCommand {
+void execute();
+}
